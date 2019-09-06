@@ -1,0 +1,12 @@
+/.vagrant
+/scrapy.iml
+*.pyc
+_trial_temp*
+dropin.cache
+docs/build
+*egg-info
+myvenv
+db.sqlite3
+.pytest_cache/
+.coverage.*
+.cache/
